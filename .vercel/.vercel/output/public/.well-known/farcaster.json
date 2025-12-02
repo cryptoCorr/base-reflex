@@ -1,0 +1,10 @@
+{
+  "name": "Reflex Test: Hızlı Tepki",
+  "description": "Farcaster'a uyumlu, tepki hızını ölçen Mini Uygulama.",
+  "mini_app_name": "ReflexTest",
+  "base_app_account_association": {
+    "url": "https://[BURAYA-YENİ-VERCEL-URL'NİZİ-YAZIN]",
+    "account_address": "",
+    "signature": ""
+  }
+}
