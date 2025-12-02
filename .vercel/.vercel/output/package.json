@@ -1,0 +1,9 @@
+{
+  "name": "base-reflex-mini-app",
+  "version": "1.0.0",
+  "description": "Base/Farcaster Reflex Test Mini App",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Starting static server...'"
+  }
+}
